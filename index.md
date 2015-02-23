@@ -5,7 +5,7 @@
 <title>Colegio Cristo Rey</title>
 <!-- Estilos -->
 <link rel="stylesheet" href="css/css_standard.css" type="text/css"/>
-<link rel="stylesheet" media="(max-width: 1366px)" href="css/css_huge.css" type="text/css"/>
+<link rel="stylesheet" media="(max-width: 1366px)" href="css_huge.md" type="text/css"/>
 <link rel="stylesheet" media="(max-width: 1024x)" href="css/css_moderate.css" type="text/css"/>
 </head>
 <body class="alfa">
